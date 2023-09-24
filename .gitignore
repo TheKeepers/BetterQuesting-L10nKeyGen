@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 .idea/
 .minecraft/
+/DefaultQuests.json
+/output_quest_json.json
+/xx_xx.lang
