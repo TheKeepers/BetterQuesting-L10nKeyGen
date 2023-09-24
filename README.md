@@ -42,4 +42,8 @@ Your computer should have Python 3.x installed.
       After that you may do the translation yourself or wait pull requests from other translators.
    2. `output_quest_json.json`: It will be your new `DefaultQuests.json`. It's **HIGHLY recommended** to back up your original `DefaultQuests.json` before you do the replacement!
 
+# Credits
 
+Some codes are from GitHub repo [qc5111/BetterQuestingAutoTranslate](https://github.com/qc5111/BetterQuestingAutoTranslate) which is licensed under MIT License.
+
+Thanks to the original author.

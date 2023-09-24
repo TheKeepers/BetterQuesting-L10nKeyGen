@@ -2,6 +2,11 @@ import json
 
 
 def replace_illegal_characters(string: str) -> str:
+    """This function replaces the illegal characters in its input with the "corrected" original version of them.
+    Borrowed from code pieces of repo https://github.com/qc5111/BetterQuestingAutoTranslate which is licensed under MIT License.
+    Thanks to the original author.
+    """
+
     string = string.replace("搂", "§")  # text 替换 "搂"为§
     string = string.replace("危", "Σ")
     string = string.replace("蟽", "σ")
